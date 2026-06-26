@@ -48,6 +48,3 @@ Our team developed an optimized, high-performance mix design utilizing local ind
 * **Freed Capital:** Reduces structural yard space bottlenecks by roughly 75%.
 
 ---
-* **Team Name:** [Insert Team Name]
-* **Institution:** [Insert College/University]
-* **Members:** Member 1, Member 2, Member 3
